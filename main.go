@@ -3,5 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Here we go!!")
+	// var card string = "ace of spade
+	card := "Ace of Spades"
+	card = "Five of diamond"
+	fmt.Println(card)
 }
